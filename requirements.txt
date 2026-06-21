@@ -1,6 +1,5 @@
 langchain
-chromadb
 openai
-streamlit
-pandas
-plotly
+chromadb
+tiktoken
+python-dotenv
